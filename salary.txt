@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my salary is 70000
+=======
+my salary is xyz
+>>>>>>> 9c52e1efe8fc6c8b67bfdd4baef04fb36dd0f84c
